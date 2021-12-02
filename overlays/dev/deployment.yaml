@@ -1,0 +1,6 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: quiz-app-backend # necessary for Kustomize identification
+spec:
+  replicas: 3
