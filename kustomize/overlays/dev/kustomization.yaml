@@ -3,7 +3,7 @@ kind: Kustomization
 namespace: dev
 commonLabels:
   env: dev
-nameSuffix: -circle-Id
+nameSuffix: circle-id
 images:
   - name: quiz-app
     newName: thallesf/quiz-app
