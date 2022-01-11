@@ -7,7 +7,7 @@ nameSuffix: circle-id
 images:
   - name: quiz-app
     newName: thallesf/quiz-app
-    newTag: dev
+    newTag: 1.0
 resources:
   - ../../base
 
