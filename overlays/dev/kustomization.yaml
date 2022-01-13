@@ -6,8 +6,8 @@ commonLabels:
 nameSuffix: circle-id
 images:
   - name: quiz-app
-    newName: thallesf/quiz-app
-    newTag: 1.0
+    newName: thallesf/quiz-app-backend
+    newTag: dev
 resources:
   - ../../base
 
